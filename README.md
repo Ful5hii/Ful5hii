@@ -3,7 +3,7 @@
 
 ### Projects -
 
-- [Discord.py Template](https://github.com/Ful5hii/discord.py-template)
+- [Discord.py Template](https://github.com/Ful5hii/discord.py-bot)
 - [BeeMod](https://github.com/Ful5hii/BeeMod)
 - [FlappyBird](https://github.com/Ful5hii/Flappy-Bird)
 
