@@ -1,11 +1,13 @@
 ## Skelly#3625
 #### A developer decent at Python, Discord.py, CSS and HTML. Currently learning in-depth JavaScript.
 
-### Projects -
+### Popular Projects -
 
 - [BeeMod](https://github.com/skelly1301/BeeMod)
-- [Discord.py Template](https://github.com/skelly1301/discord.py-bot)
 - [FlappyBird](https://github.com/skelly1301/Flappy-Bird)
+
+### W.I.P Projects - 
+- [Discord.py tutorials](https://github.com/skelly1301/discord.py)
 
 **Stats**
 
