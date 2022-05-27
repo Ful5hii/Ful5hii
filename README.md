@@ -4,7 +4,7 @@
 ### Popular Projects -
 
 - [BeeMod](https://github.com/skelly1301/BeeMod)
-- [FlappyBird](https://github.com/skelly1301/Flappy-Bird)
+- [Skelly](https://github.com/skelly1301/Skelly)
 
 **Stats**
 
