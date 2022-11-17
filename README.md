@@ -1,9 +1,6 @@
-## SHi im skelly
-#### A developer decent at Python, Discord.py, CSS and HTML. Currently learning in-depth JavaScript.
-discord - ilySkelly#5380
-### Popular Projects -
-
-- [BeeMod](https://github.com/skelly1301/BeeMod)
+## Welcome to my profile
+#### I use discord.py
+### My most popular project
 - [Skelly](https://github.com/skelly1301/Skelly)
 
 **Stats**
